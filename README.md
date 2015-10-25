@@ -1,4 +1,3 @@
-[TOC]
 #SmallCodeCollection
 
 ##EXPLAINATION
@@ -15,3 +14,5 @@
 
 ###realize non-const by const.cpp
 1. in Effective C++ avoid duplicated code
+
+:+1:
