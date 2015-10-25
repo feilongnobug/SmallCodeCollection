@@ -1,5 +1,5 @@
 #SmallCodeCollection
-...
+-----------
 
 ##EXPLAINATION
 
@@ -13,5 +13,5 @@
 ###mutable_test.cpp
 1. we can change member variable even in const func!
 
-###realize non-const by const.cpp>
+###realize non-const by const.cpp
 1. in Effective C++ avoid duplicated code
