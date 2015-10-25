@@ -1,11 +1,17 @@
-# SmallCodeCollection
-# <ENTRY> EXPLAINATION
+#SmallCodeCollection
+...
 
-<mylist.cpp>
-create my list;show my list;search my list;insert a node into my list;deletea node from mylist;
+##EXPLAINATION
 
-<mutable_test.cpp>
-we can change member variable even in const func!
+###mylist.cpp
+1. create my list;
+2. show my list;
+3. search my list;
+4. insert a node into my list;
+5. deletea node from mylist;
 
-<realize non-const by const.cpp>
-<<Effective C++>> avoid duplicated code
+###mutable_test.cpp
+1. we can change member variable even in const func!
+
+###realize non-const by const.cpp>
+1. in Effective C++ avoid duplicated code
