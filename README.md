@@ -1,5 +1,5 @@
+[TOC]
 #SmallCodeCollection
------------
 
 ##EXPLAINATION
 
